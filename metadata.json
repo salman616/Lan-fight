@@ -1,0 +1,6 @@
+{
+  "name": "Mini Militia 2D: Local Hotspot Warfare",
+  "description": "Action-packed 2D multiplayer shooter inspired by Mini Militia. Battle friends over local Wi-Fi hotspot without internet or play against smart combat bots with jetpacks, dual sticks, and explosive weapons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
